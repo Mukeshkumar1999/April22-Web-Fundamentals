@@ -1,0 +1,39 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.fullscreen-landing {
+    background-image: url(../img/svg/background_waves.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 100vh;
+}
+
+.form-control {
+    width: 500px;
+    height: 50px;
+}
+
+.image-fluid {
+    height: 350px;
+    width: 500px;
+}
+
+.subscribe-section {
+    background-image: url(..//img/svg/background_waves.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.subscribe-overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+}
